@@ -1,2 +1,2 @@
-# my_repo
-this is the first repo from scratch
+# My_repo
+This is the first repo from scratch
